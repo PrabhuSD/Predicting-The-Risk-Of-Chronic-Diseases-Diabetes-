@@ -1,1 +1,1 @@
-# Predicting-The-Risk-Of-Chronic-Diseases-Diabetes-
+# Predicting-The-Risk-Of-Chronic-Diseases-Kidney-
